@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+#floatLeft {
+    color: white;
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    background-color: green;
+    margin-right: 30px;
+    float: left;
+}
+
+#text {
+    color: white;
+}
